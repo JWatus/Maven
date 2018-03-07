@@ -1,0 +1,1 @@
+This repository contains lesson of Maven - building project structure.
